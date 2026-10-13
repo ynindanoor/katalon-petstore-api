@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC006-API-GetPet-Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b659647d-f0d9-4109-a4a6-9f4d9cff05e6</testCaseGuid>
+</TestCaseEntity>

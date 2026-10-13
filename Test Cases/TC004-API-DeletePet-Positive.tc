@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004-API-DeletePet-Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ab793761-3fb3-41cc-b98f-817b47a99a2f</testCaseGuid>
+</TestCaseEntity>

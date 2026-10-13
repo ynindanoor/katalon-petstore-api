@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC007-API-PutPet-Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99e261bd-815c-467e-b16c-2beb3d2ad0d4</testCaseGuid>
+</TestCaseEntity>
